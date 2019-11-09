@@ -19,7 +19,7 @@ pipeline
              sh 'mvn test'
          }
      }
-     stage ('find my binary')
+     stage ('find my binaryggggggg')
      {
          steps
          {
